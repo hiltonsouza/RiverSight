@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="RiverSight.Application/RiverSight.Application.csproj" />
+  <Project Path="RiverSight.Domain/RiverSight.Domain.csproj" />
+  <Project Path="RiverSight.Infrastructure.Vision/RiverSight.Infrastructure.Vision.csproj" />
+</Solution>
